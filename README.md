@@ -5,7 +5,7 @@
 ### About Me
 
 - I'm currently a Software Engineering Student at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
-- Fun-fact: I used to be an actor, writer and director
+- Fun-fact: I am an actor, writer and director
 
 ---
 
