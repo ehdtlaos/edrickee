@@ -5,7 +5,7 @@
 ### About Me
 
 - I'm currently a Software Engineering Student at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
-- Fun-fact: I used to make wine before transitioning to software
+- Fun-fact: I used to be an actor, writer and director
 
 ---
 
@@ -47,4 +47,4 @@
 
 ---
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-heindel&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Edrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=edrick-ee&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
